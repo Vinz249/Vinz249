@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vinz249
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning C,C++,Java and Python
+- 👋 Hi, I’m Vinayak
+- 👀 I’m interested in applied AI and developing end to end ML solutions
+- 🌱 I’m currently learning LLM RAG and agentic development
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me vinayaksharma8800@gmail.com
 
