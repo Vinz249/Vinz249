@@ -36,7 +36,7 @@ I build end-to-end AI systems that solve real problems — from data pipelines t
   - Built integration scripts connecting classifier to Supabase + Claude AI Agent
 - **Impact:** Selected as 1 of 8 teams from 50+ competitors
 - **Tech Stack:** Python, Scikit-learn, Anthropic Claude API, FastAPI, PostgreSQL, React
-- **GitHub:** [laya-foresight](https://github.com/vinz249/laya-foresight)
+- **GitHub:** [laya-foresight](https://github.com/Vinz249/Laya-Foresight-Proactive-Claim-Escalation-Prevention)
 
 ---
 
@@ -64,8 +64,8 @@ I build end-to-end AI systems that solve real problems — from data pipelines t
 ## 🌐 Find Me
 
 - **Email:** vinayaksharma8800@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/-vinayak-sharma)
-- **GitHub:** [@vinz249](https://github.com/vinz249)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vinayak-sharma-6537bb216/)
+- **GitHub:** [@vinz249](https://github.com/Vinz249)
 
 ---
 
